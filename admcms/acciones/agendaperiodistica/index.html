@@ -1,0 +1,34 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<script language="javascript" src="cal2.js">
+/*
+Xin's Popup calendar script- Xin Yang (http://www.yxscripts.com/)
+Script featured on/available at http://www.dynamicdrive.com/
+This notice must stay intact for use
+*/
+</script>
+<script language="javascript" src="cal_conf2.js"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Acciones Agenda</title>
+<link href="../../extras/estilos.css" rel="stylesheet" type="text/css" />
+</head>
+<body topmargin=5 class="body">
+<form name="myform" action="../../principal/agendaperiodistica/listar/index.php" class="texto" method="post" target="principal">
+  <table width="720" border="0" cellspacing="0" cellpadding="3">
+    <tr>
+      <td><span class="etiquetas">Agenda Periodistica / </span><span class="texto"><a href="../../contenidos/index.html" target="contenidos">Mostrar lista de contenidos </a></span></td>
+    </tr>
+  </table>
+  <table width="720" border="0" cellpadding="3" cellspacing="1" bgcolor="#404040">
+    <tr>
+      
+	  <td width="35%" bgcolor="#D4D0C8" class="texto">Agenda Periodistica <a href="../../principal/agendaperiodistica/agregar/index.php" target="principal">Agregar</a>  </td>
+    <td width="35%" bgcolor="#D4D0C8" class="texto"><input type="text" name="fecha" id="fechalist" size="15" readonly="yes" value="" /> 
+    <a href="javascript:showCal('calendario')"><img src="cal.jpg" width="16" height="15" border="0" align="texttop" /></a></td>
+	<td width="35%" bgcolor="#D4D0C8" class="texto"><input type="submit" value="Listar" /></td>
+	</tr>
+  </table>
+  </form>
+</body>
+</html>

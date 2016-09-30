@@ -1,0 +1,59 @@
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" >
+  <channel>
+    <item>
+      <title>¡PARTICIPA!</title>
+      <link>http://www.telesurtv.net</link>
+      <description>Observa los videos y selecciona el de tu preferencia</description>
+      <pubdate>...</pubdate>
+      <media:content url="imagenes/logoNuevo400x300.jpg"/>
+      <media:thumbnail url="imagenes/logoNuevo400x300.jpg"/>
+    </item>
+
+    <item>
+      <title>"Terremoto Chile - Penco"</title>
+      <link>http://www.telesurtv.net</link>
+      <description>Periodista: Edgardo Esteban (Argentina)</description>
+      <pubdate>...</pubdate>
+      <media:content url="/videos/PremiosTeleSUR2010/Argentina.flv" duration="144"/>
+      <media:thumbnail url="videos/PremiosTeleSUR2010/Argentina.jpg"/>
+    </item>
+
+   <item>
+      <title>"Yo si puedo"</title>
+      <link>http://www.telesurtv.net</link>
+      <description>Periodista: Angie Camacho (Colombia)</description>
+      <pubdate>...</pubdate>
+      <media:content url="/videos/PremiosTeleSUR2010/Colombia.flv" duration="148"/>
+      <media:thumbnail url="videos/PremiosTeleSUR2010/Colombia.jpg"/>
+    </item>
+ 
+   <item>
+      <title>"Voces del Bicentenario"</title>
+      <link>http://www.telesurtv.net</link>
+      <description>Periodista: Laura Simon (Mexico)</description>
+      <pubdate>...</pubdate>
+      <media:content url="/videos/PremiosTeleSUR2010/Mexico.flv" duration="129"/>
+      <media:thumbnail url="videos/PremiosTeleSUR2010/Mexico.jpg"/>
+    </item>
+ 
+   <item>
+      <title>"Remolque de salud"</title>
+      <link>http://www.telesurtv.net</link>
+      <description>Periodista: Andrea Arenas (USA)</description>
+      <pubdate>...</pubdate>
+      <media:content url="/videos/PremiosTeleSUR2010/Usa.flv" duration="127"/>
+      <media:thumbnail url="videos/PremiosTeleSUR2010/Usa.jpg"/>
+    </item>
+ 
+   <item>
+      <title>"Profesor Milord - Haiti"</title>
+      <link>http://www.telesurtv.net</link>
+      <description>Periodista: Jordan Rodriguez (Venezuela)</description>
+      <pubdate>...</pubdate>
+      <media:content url="/videos/PremiosTeleSUR2010/Venezuela.flv" duration="132"/>
+      <media:thumbnail url="videos/PremiosTeleSUR2010/Venezuela.jpg"/>
+    </item>
+  
+  </channel>
+</rss>
+

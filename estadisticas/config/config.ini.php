@@ -1,0 +1,58 @@
+; <?php exit; ?> DO NOT REMOVE THIS LINE
+; file automatically generated or modified by Piwik; you can manually override the default values in global.ini.php by redefining them in this file.
+[database]
+host = "127.0.0.1"
+username = "intranet"
+password = "*1ntr4netcl4v3*"
+dbname = "estadisticas"
+tables_prefix = "piwik_"
+charset = "utf8"
+
+[superuser]
+login = "intranet"
+password = "1eaa667bf8b9f13678a1a1de8feea6e7"
+email = "serviciosweb@telesurtv.net"
+salt = "b11e84fa1930839fa1dbc47dddf2d2f2"
+
+[General]
+trusted_hosts[] = "intranet.telesurtv.net"
+
+[PluginsInstalled]
+PluginsInstalled[] = "Login"
+PluginsInstalled[] = "CoreAdminHome"
+PluginsInstalled[] = "UsersManager"
+PluginsInstalled[] = "SitesManager"
+PluginsInstalled[] = "Installation"
+PluginsInstalled[] = "CorePluginsAdmin"
+PluginsInstalled[] = "CoreHome"
+PluginsInstalled[] = "Proxy"
+PluginsInstalled[] = "API"
+PluginsInstalled[] = "Widgetize"
+PluginsInstalled[] = "Transitions"
+PluginsInstalled[] = "LanguagesManager"
+PluginsInstalled[] = "Actions"
+PluginsInstalled[] = "Dashboard"
+PluginsInstalled[] = "MultiSites"
+PluginsInstalled[] = "Referers"
+PluginsInstalled[] = "UserSettings"
+PluginsInstalled[] = "Goals"
+PluginsInstalled[] = "SEO"
+PluginsInstalled[] = "UserCountry"
+PluginsInstalled[] = "VisitsSummary"
+PluginsInstalled[] = "VisitFrequency"
+PluginsInstalled[] = "VisitTime"
+PluginsInstalled[] = "VisitorInterest"
+PluginsInstalled[] = "ExampleAPI"
+PluginsInstalled[] = "ExamplePlugin"
+PluginsInstalled[] = "ExampleRssWidget"
+PluginsInstalled[] = "Provider"
+PluginsInstalled[] = "Feedback"
+PluginsInstalled[] = "CoreUpdater"
+PluginsInstalled[] = "PDFReports"
+PluginsInstalled[] = "UserCountryMap"
+PluginsInstalled[] = "Live"
+PluginsInstalled[] = "CustomVariables"
+PluginsInstalled[] = "PrivacyManager"
+PluginsInstalled[] = "ImageGraph"
+PluginsInstalled[] = "DoNotTrack"
+

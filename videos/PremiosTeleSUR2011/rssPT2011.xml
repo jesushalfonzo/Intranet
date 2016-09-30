@@ -1,0 +1,64 @@
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" >
+  <channel>
+    <item>
+      <title>¡PARTICIPA!</title>
+      <link>http://www.telesurtv.net</link>
+      <description>Chequea los videos seleccionados para la Historia más Popular del Premio Nuestro Norte es el Sur 2011</description>
+      <pubdate>...</pubdate>
+      <media:content url="imagenes/Premios2011/Logo2011300X400.jpg"/>
+      <media:thumbnail url="imagenes/Premios2011/Logo2011300X400.jpg"/>
+    </item>
+
+   <item>
+      <title>"Orquesta Basura"</title>
+      <link>http://www.telesurtv.net</link>
+      <description>Periodista: Eduardo Martínez (Mexico)</description>
+      <pubdate>...</pubdate>
+      <media:content url="/videos/PremiosTeleSUR2011/orquesta_basura.flv" duration="128"/>
+      <media:thumbnail url="videos/PremiosTeleSUR2011/Mexico.jpg"/>
+    </item>
+
+   <item>
+      <title>"Sombrero Vueltiao"</title>
+      <link>http://www.telesurtv.net</link>
+      <description>Periodista: Wladimir Carrillo (Colombia)</description>
+      <pubdate>...</pubdate>
+      <media:content url="/videos/PremiosTeleSUR2011/Sombrero_vueltiao.flv" duration="133"/>
+      <media:thumbnail url="videos/PremiosTeleSUR2011/Colombia.jpg"/>
+    </item>
+
+
+    <item>
+      <title>"Baloncesto Palestinos"</title>
+      <link>http://www.telesurtv.net</link>
+      <description>Periodista: Rodrigo Hernández (Palestina)</description>
+      <pubdate>...</pubdate>
+      <media:content url="/videos/PremiosTeleSUR2011/baloncesto_palestino.flv" duration="123"/>
+      <media:thumbnail url="videos/PremiosTeleSUR2011/Palestina1.jpg"/>
+    </item>
+
+
+ 
+
+ 
+   <item>
+      <title>"La Pachamama"</title>
+      <link>http://www.telesurtv.net</link>
+      <description>Periodista: Freddy Morales (Bolivia)</description>
+      <pubdate>...</pubdate>
+      <media:content url="/videos/PremiosTeleSUR2011/la_pachamama.flv" duration="112"/>
+      <media:thumbnail url="videos/PremiosTeleSUR2011/boliviabandera.jpg"/>
+    </item>
+ 
+   <item>
+      <title>"Lectores de Tabaco"</title>
+      <link>http://www.telesurtv.net</link>
+      <description>Periodista: Maylin Alonso (Cuba)</description>
+      <pubdate>...</pubdate>
+      <media:content url="/videos/PremiosTeleSUR2011/lectores_tabaco.flv" duration="132"/>
+      <media:thumbnail url="videos/PremiosTeleSUR2011/cuba.jpg"/>
+    </item>
+  
+  </channel>
+</rss>
+

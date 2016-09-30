@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+#tabs{
+	width:600px;
+	height:400px;
+	float:left;
+	border:1px solid #CCC;
+	margin-left:10px;
+	margin-top:0px;
+	
+}

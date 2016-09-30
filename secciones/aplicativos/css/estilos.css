@@ -1,0 +1,302 @@
+.linea_azul_left_rigth {
+	border-right-width: 1px;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-right-color: #2574A1;
+	border-left-color: #2574A1;
+}
+.linea_azul_top {
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #2574A1;
+}
+.linea_azul_bottom {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #2574A1;
+}
+.foto_entrevista {
+	margin: 2px;
+	padding: 4px;
+	border: 1px solid #CCCCCC; 
+}
+.texto_internos {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 18px;
+	font-weight: lighter;
+	color: #000000;
+	padding-right: 4px;
+	padding-left: 8px;
+	margin-left: 0px;
+}
+.foto_internas {
+	padding: 10px;
+	border: 1px solid #CCCCCC; 
+}
+.Titulos_Internos {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #000000;
+	padding-top: 6px;
+	padding-right: 6px;
+	padding-bottom: 6px;
+	padding-left: 10px;
+}
+.texto_entrevista {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 14px;
+	font-weight: normal;
+	color: #000000;
+	padding-left: 6px;
+	padding-right: 4px;
+}
+.foto_delMes {
+	padding-top: 2px;
+	padding-right: 6px;
+	padding-bottom: 2px;
+	padding-left: 4px;
+}
+.Numeros_rojo {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #990000;
+	padding-left: 4px;
+}
+.titulares {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 18px;
+	font-weight: lighter;
+	color: #000000;
+	padding-right: 0px;
+	padding-left: 0px;
+}
+.foto_programas {
+	padding-top: 3px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 13px;
+}
+.imagen_listas_rojo {
+	padding-left: 8px;
+}
+.images_gifs {
+	padding-left: 6px;
+}
+.Titulos {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #FFFFFF;
+	padding-left: 18px;
+}
+.Titulos_negros {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #000000;
+	padding-left: 18px;
+}
+.texto_bold {
+	line-height: 18px;
+	font-weight: bold;
+	color: #000000;
+	padding-top: 0px;
+	margin-top: 0px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.texto_Gris {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #333333;
+	font-style: italic;
+	padding-right: 4px;
+	padding-left: 6px;
+}
+.texto_pregunta_TuZona {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	line-height: 18px;
+	font-weight: bold;
+	color: #000000;
+	padding-right: 4px;
+	padding-left: 6px;
+}
+.foto_tuZona {
+	padding-right: 4px;
+	margin-left:5px;
+	padding-left: 6px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	border: 1px solid #CCCCCC; 
+}
+.Titulo_Rojo {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+.texto_respuesta {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	line-height: 18px;
+	font-weight: lighter;
+	color: #000000;
+	padding-right: 4px;
+	padding-left: 6px;
+}
+.links {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	line-height: 18px;
+	font-weight: lighter;
+	color: #003399;
+	text-decoration: none;
+	padding-left: 2px;
+}
+.links_internos {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 18px;
+	font-weight:bold;
+    color:#353535;
+	text-decoration: none;
+	padding-left: 2px;
+}
+.Fecha {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 13px;
+	font-weight: bold;
+	color: #FFFFFF;
+	padding-left: 6px;
+}
+.Fecha_numero {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #FFFFFF;
+	padding-right: 4px;
+	padding-left: 4px;
+}
+.hora {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #990000;
+	padding-right: 6px;
+	padding-left: 6px;
+}
+.texto_nombre {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: lighter;
+	color: #000000;
+	padding-left: 3px;
+}
+.titulo_entrevista {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 18px;
+	font-weight: bold;
+	color: #000000;
+	font-style: normal;
+	text-decoration:none;
+}
+.divScroolBarAvances {
+	
+	overflow: scroll;
+	height: 80px;
+	visibility: inherit;
+	SCROLLBAR-FACE-COLOR:#F0F0F0;
+	SCROLLBAR-HIGHLIGHT-COLOR: #FFFFFF;
+	SCROLLBAR-SHADOW-COLOR: #CCCCCC;
+	SCROLLBAR-3DLIGHT-COLOR: #FFFFFF;
+	SCROLLBAR-ARROW-COLOR: #1D396B;
+	SCROLLBAR-TRACK-COLOR: #FFFFFF;
+	SCROLLBAR-DARKSHADOW-COLOR: #CCCCCC;
+	overflow-x: hidden;
+	clip: rect(auto,auto,80px,auto);
+}
+.autornotas {
+	font-family: arial;
+	font-size: 10px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	color: #333333;
+	margin-top: 10px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	margin-left: 10px;
+}
+.text_form {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: lighter;
+	color: #333333;
+}
+.foto_EnContacto {
+	border: 1px solid #666666;
+	margin-left: 10px;
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+.Titulo_enContacto {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: italic;
+	line-height: 18px;
+	font-weight: bold;
+	color: #333333;
+}
+.Texto_Todos {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 18px;
+	font-weight: lighter;
+	color:#000000;
+	margin-left: 10px;
+	margin-right: 5px;
+}
+.Texto_Tu {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 18px;
+	font-weight: lighter;
+	color:#000000;
+	margin-top: 5px;
+	margin-right: 5px;
+	margin-left: 10px;
+}
+.Texto_form {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: lighter;
+	color:#000000;
+	margin-left: 2px;
+}
+.foto_TuVoz {
+	margin: 5px;
+}
+.texto_fecha {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bolder;
+	color: #FFFFFF;
+	margin-left: 5px;
+	line-height: 10px;
+}
+.numero_hora {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #FFFFFF;
+}

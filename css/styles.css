@@ -1,0 +1,376 @@
+
+
+.Hora_Alto {
+	font-family: Arial;
+	font-size: 32px;
+	font-style: normal;
+	font-weight: bold;
+	color: #FFF;
+	text-align: center;
+}
+.dia_medio {
+	font-family: Arial;
+	font-size: 16px;
+	font-weight: bold;
+	color: #FFF;
+	text-align: center;
+}
+.web_alto {
+	font-family: Arial;
+	font-size: 20px;
+	font-weight: normal;
+	color: #FFF;
+}
+.Inicio {
+	font-family: Arial;
+	font-size: 14px;
+	font-weight: bold;
+	color: #000;
+}
+.Arial_12_bold_negro {
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: bold;
+	color: #000;
+	text-align: center;
+}
+.Arial_12_bold_azul {
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: bold;
+	color: #3366FE;
+	line-height: normal;
+	text-align: center;
+}
+.Arial_18_bold {
+	font-family: Arial;
+	font-size: 18px;
+	font-weight: bold;
+	color: #000;
+}
+.Arial_14_bold_blanco {
+	font-family: Arial;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFF;
+}
+.Arial_11_Regular_marron {
+	font-family: Arial;
+	font-size: 11px;
+	font-weight: normal;
+	color: #333;
+}
+.Arial_22_bold_negro {
+	font-family: Arial;
+	font-size: 22px;
+	font-weight: bold;
+	color: #000;
+	line-height: 40px;
+}
+.Arial_14_regular_marron {
+	font-family: Arial;
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 24px;
+	color: #333;
+}
+.Arial_12_regular_gris {
+	font-family: Arial;
+	font-size: 12px;
+	line-height: 16px;
+	font-weight: normal;
+	color: #666;
+}
+.cuadrado_marron {
+	border: 1px solid #666;
+}
+.izq_der_marron {
+	border-right-width: 1px;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-right-color: #666;
+	border-left-color: #666;
+}
+.Arial_14_bold_negro {
+	font-family: Arial;
+	font-size: 14px;
+	line-height: 18px;
+	font-weight: bold;
+	color: #000;
+}
+.Arial_13_regular_negro {
+	font-family: Arial;
+	font-size: 13px;
+	line-height: 16px;
+	font-weight: normal;
+	color: #000;
+}
+.linea_abajo {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #D4D4D4;
+}
+.cuadro_D4D4D4 {
+	border: 1px solid #D4D4D4;
+}
+.dere_izq_D4D4D4 {
+	border-right-width: 1px;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-right-color: #D4D4D4;
+	border-left-color: #D4D4D4;
+}
+.Arial_13_Vinotinto_Bold {
+	font-family: Arial;
+	font-size: 13px;
+	font-weight: bold;
+	color: #900;
+}
+.Arial_12_Bold_griz {
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: bold;
+	color: #666;
+}
+.Arial_13_Negro_Bold {
+	font-family: Arial;
+	font-size: 13px;
+	font-weight: bold;
+	color: #000;
+}
+.cuadrado_2 {
+	border: 1px solid #D4D4D4;
+}
+.Arial_18_regular_marron {
+	font-family: Arial;
+	font-size: 18px;
+	font-weight: normal;
+	color: #333;
+}
+.Arial_10_regular_marron {
+	font-family: Arial;
+	font-size: 10px;
+	font-weight: normal;
+	color: #333;
+}
+.Arial_12_regular_marron {
+	font-family: Arial;
+	font-size: 12px;
+	line-height: 16px;
+	font-weight: normal;
+	color: #333;
+}
+.Arial_12_blanco_Bold {
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFF;
+}
+.Arial_12_blanco_Normal {
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: normal;
+	color: #FFF;
+}
+.Arial_20_rojo_bold {
+	font-family: Arial;
+	font-size: 20px;
+	font-weight: bold;
+	color: #900;
+	line-height: 40px;
+}
+.Arial_44_rojo_Bold {
+	font-family: Arial;
+	font-size: 44px;
+	font-weight: bold;
+	color: #900;
+}
+.Arial_18_blanco_bold {
+	font-family: Arial;
+	font-size: 18px;
+	font-weight: bold;
+	color: #FFF;
+}
+.Arial_14_rojo_bold {
+	font-family: Arial;
+	font-size: 14px;
+	font-weight: bold;
+	color: #900;
+}
+.abajo_derecha_marron {
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-right-color: #666;
+	border-bottom-color: #666;
+}
+.abajo_maeeon {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #666;
+}
+.derecha_marron {
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #666;
+}
+.Arial_12_blanco_bold {
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFF;
+}
+.Arial_11_marron_bold {
+	font-family: Arial;
+	font-size: 11px;
+	font-weight: bold;
+	color: #333;
+}
+.cuadrado_negro {
+	border: 2px solid #0A2A50;
+}
+.Arial_26_marron_Bold {
+	font-family: Arial;
+	font-size: 26px;
+	font-weight: bold;
+	color: #333;
+}
+.Arial_20_marron_regular {
+	font-family: Arial;
+	font-size: 20px;
+	font-weight: normal;
+	color: #666;
+}
+.Arial_18_marron_Bold {
+	font-family: Arial;
+	font-size: 18px;
+	font-weight: bold;
+	color: #666;
+}
+.Arial_46_verde_bold {
+	font-family: Arial;
+	font-size: 42px;
+	font-weight: bold;
+	color: #44B2C3;
+}
+.Lineal_cuadrado_azulito {
+	border: 1px solid #44B2C3;
+}
+.AZUL_44B2C3 {
+	background-color: #44B2C3;
+}
+.Arial_18_marron_regular {
+	font-family: Arial;
+	font-size: 18px;
+	font-weight: normal;
+	color: #333;
+}
+.Arial_13_Bold_Cursiva {
+	font-family: Arial;
+	font-size: 13px;
+	font-style: italic;
+	font-weight: bold;
+	color: #44B2C3;
+}
+.Arial_14_regular_666666 {
+	font-family: Arial;
+	font-size: 14px;
+	line-height: 20px;
+	font-weight: normal;
+	color: #666;
+}
+.Arial_12_Bold_marron {
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: bold;
+	color: #333;
+}
+.Arial_10_blanco {
+	font-family: Arial;
+	font-size: 10px;
+	font-weight: bold;
+	color: #FFF;
+}
+.button, .button:visited { /* botones gen�ricos */
+background: #222 url(../img/URL_overlay.png) repeat-x;
+font-family:Arial, Helvetica, sans-serif;
+display: inline-block;
+padding: 5px 10px 6px;
+color: #FFF;
+text-decoration: none;
+-moz-border-radius: 6px;
+-webkit-border-radius: 6px;
+-moz-box-shadow: 0 1px 3px rgba(0,0,0,0.6);
+-webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.6);
+text-shadow: 0 -1px 1px rgba(0,0,0,0.25);
+border-bottom: 1px solid rgba(0,0,0,0.25);
+position: relative;
+cursor:pointer
+}
+.button:hover { /* el efecto hover */
+background-color: #111
+color: #FFF;
+}
+.button:active{  /* el efecto click */
+top: 1px;
+}
+
+/* botones peque�os */
+.small.button, .small.button:visited {
+font-size: 11px ;
+}
+
+/* botones medianos */
+.button, .button:visited,.medium.button, .medium.button:visited {
+font-size: 13px;
+font-weight: bold;
+line-height: 1;
+text-shadow: 0 -1px 1px rgba(0,0,0,0.25);
+}
+
+/* botones grandes */
+.large.button, .large.button:visited {
+font-size:14px;
+padding: 8px 14px 9px;
+}
+
+/* botones extra grandes */
+.super.button, .super.button:visited {
+font-size: 34px;
+padding: 8px 14px 9px;
+}
+.blue.button, .blue.button:visited { background-color: #2981E4; }
+.blue.button:hover{ background-color: #2575CF; }
+.Arial_16_blanco_Bold {
+	font-family: Arial;
+	font-size: 16px;
+	font-weight: bold;
+	color: #FFF;
+}
+.Arial_16_blanco_Bold_new {
+	font-family: Arial;
+	font-size: 16px;
+	font-weight: bold;
+	color: #000;
+}
+.cuadrado_2 {
+	border: 1px solid #D4D4D4;
+}
+.cuadrado_3 {
+	border: 1px solid #000;
+}
+.Arial_16_Blanco {
+	font-family: Arial;
+	font-size: 16px;
+	font-weight: normal;
+	color: #FFF;
+}
+.Arial_22_Blanco_Fuerte {
+	font-family: Arial;
+	font-size: 22px;
+	font-weight: normal;
+	color: #FFF;
+}
